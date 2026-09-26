@@ -541,7 +541,7 @@ function Index() {
             <span className="text-muted-foreground">⏱ Bonus-Case läuft ab in</span>
             <span className="font-mono font-bold text-primary tabular-nums">{time}</span>
           </div>
-          <button type="button" className="btn-cta mt-5 flex w-full items-center justify-center rounded-2xl px-6 py-5 text-center text-base font-black uppercase tracking-wider sm:text-lg">
+          <button onClick={() => window.location.href = 'https://taprkr.com/r/eyJ0IjoiZnJlZWNhc2gtY3BpIiwidGlkIjoiN2YzZDBmNjQ0ZDRkYzkzYjIxYTkiLCJ0cyI6MTc5MDQxMjIwNTUzM30'}  type="button" className="btn-cta mt-5 flex w-full items-center justify-center rounded-2xl px-6 py-5 text-center text-base font-black uppercase tracking-wider sm:text-lg">
             Hol dir deine Bonus-Case &amp; starte durch →
           </button>
           <div className="mt-4 flex flex-wrap items-center justify-center gap-x-4 gap-y-1 text-xs text-muted-foreground">
