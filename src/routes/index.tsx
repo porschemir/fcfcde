@@ -256,7 +256,7 @@ function Index() {
           ))}
         </div>
         <a
-          href="#claim"
+          href="https://taprkr.com/r/eyJ0IjoiZnJlZWNhc2gtY3BpIiwidGlkIjoiN2YzZDBmNjQ0ZDRkYzkzYjIxYTkiLCJ0cyI6MTc5MDQxMTk4NzUzN30"
           className="btn-cta mt-7 flex w-full items-center justify-center rounded-2xl px-6 py-4 text-center text-base font-black uppercase tracking-wider"
         >
           Jetzt spielen →
