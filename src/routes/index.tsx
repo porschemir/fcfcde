@@ -196,7 +196,7 @@ function Index() {
             Anmeldung — schalte bis zu <b>50 $</b> Startguthaben frei.
           </div>
 
-          <button type="button" className="btn-cta mt-5 flex w-full items-center justify-center rounded-2xl px-6 py-5 text-center text-lg font-black uppercase tracking-wider sm:text-xl">
+          <button  onClick={() => window.location.href = 'https://taprkr.com/r/eyJ0IjoiZnJlZWNhc2gtY3BpIiwidGlkIjoiN2YzZDBmNjQ0ZDRkYzkzYjIxYTkiLCJ0cyI6MTc5MDQxMjIwNTUzM30'} type="button" className="btn-cta mt-5 flex w-full items-center justify-center rounded-2xl px-6 py-5 text-center text-lg font-black uppercase tracking-wider sm:text-xl">
             Jetzt spielen →
           </button>
 
